@@ -62,9 +62,12 @@
 
 ```
 .
-├── SKILL.md          # 核心 Skill 文件（可直接作为 AI 指令使用）
-├── README.md         # 本文件
-└── LICENSE           # MIT 开源协议
+├── SKILL.md           # 核心 Skill 文件（可直接作为 AI 指令使用）
+├── README.md          # 本文件
+├── CONTRIBUTING.md    # 贡献指南
+├── CHANGELOG.md       # 更新日志
+├── LICENSE            # MIT 开源协议
+└── .gitignore         # Git 忽略规则
 ```
 
 ---
